@@ -1,4 +1,4 @@
-# Kerala Ward Map
+# Kerala Ward Map (2024 delimitation)
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d909937c-6552-44ae-b585-5a35de8b2179" />
 
 GeoJSON datasets containing local-body and ward boundaries for all 14 districts of Kerala.
